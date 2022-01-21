@@ -1,7 +1,7 @@
 {
     "name": "vite-plugin-url-redirect",
-    "version": "1.0.0",
-    "description": "",
+    "version": "0.1.0",
+    "description": "Redirect a source url to another one.",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
     "scripts": {
@@ -12,8 +12,11 @@
         "type": "git",
         "url": "git+https://github.com/fanhaoyuan/vite-plugin-url-redirect.git"
     },
-    "keywords": [],
-    "author": "",
+    "keywords": [
+        "redirect",
+        "url"
+    ],
+    "author": "Fansy <418536538@qq.com>",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/fanhaoyuan/vite-plugin-url-redirect/issues"
